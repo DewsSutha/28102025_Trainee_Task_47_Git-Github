@@ -1,0 +1,41 @@
+[33mtag v1.0[m
+Tagger: Murugasutha <dewsmurugasutha@gmail.com>
+Date:   Mon Oct 27 21:39:01 2025 +0530
+
+Version 1.0 release
+
+[33mcommit c84024fd04858188dae1e55756f6737ada53ad91[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Author: Murugasutha <dewsmurugasutha@gmail.com>
+Date:   Mon Oct 27 21:25:12 2025 +0530
+
+    Initial Project structure
+
+[1mdiff --git a/assets/css/style.js b/assets/css/style.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/assets/js/index.js b/assets/js/index.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fa93a41[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,16 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Git And Github</title>[m
+[32m+[m[32m</head>[m
+[32m+[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <header>[m
+[32m+[m[32m        <h1>Test File for Git</h1>[m
+[32m+[m[32m    </header>[m
+[32m+[m[32m</body>[m
+[32m+[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
